@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/santiagofischel/Desktop/University/Programming 2/C++/2D-game/build",
+  "command": "/usr/bin/clang++  -I\"/Users/santiagofischel/Desktop/University/Programming 2/C++/2D-game/include\" -isystem /opt/homebrew/Cellar/sfml/2.6.1/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/2D_game_assignment.dir/src/main.cpp.o -c \"/Users/santiagofischel/Desktop/University/Programming 2/C++/2D-game/src/main.cpp\"",
+  "file": "/Users/santiagofischel/Desktop/University/Programming 2/C++/2D-game/src/main.cpp",
+  "output": "CMakeFiles/2D_game_assignment.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/santiagofischel/Desktop/University/Programming 2/C++/2D-game/build",
+  "command": "/usr/bin/clang++  -I\"/Users/santiagofischel/Desktop/University/Programming 2/C++/2D-game/include\" -isystem /opt/homebrew/Cellar/sfml/2.6.1/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/2D_game_assignment.dir/src/game.cpp.o -c \"/Users/santiagofischel/Desktop/University/Programming 2/C++/2D-game/src/game.cpp\"",
+  "file": "/Users/santiagofischel/Desktop/University/Programming 2/C++/2D-game/src/game.cpp",
+  "output": "CMakeFiles/2D_game_assignment.dir/src/game.cpp.o"
+}
+]
